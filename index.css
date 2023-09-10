@@ -30,6 +30,17 @@ nav, .nav-links{
     display: flex;
 }
 
+.tops{
+    display: flex;
+    gap: 1.5rem;
+    margin-bottom: -1rem;
+}
+
+.port-icon{
+    height: 4rem;
+    width: 4rem;
+}
+
 nav {
     justify-content: space-around;
     align-items: center;
@@ -177,7 +188,7 @@ section {
     width: 320px;
     height: 320px;
     object-fit: cover;
-    margin: 10% 20% 0;
+    margin: 10% 25% 0;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 
